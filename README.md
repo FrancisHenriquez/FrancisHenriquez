@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrancisHenriquez
-- 👀 I’m interested in front-end web dev 
+- 👀 I’m interested in full-stack web dev 
 - 🌱 I’m currently learning react and flutter
 - 💞️ I’m looking to collaborate who ever i can learn from
 - 📫 How to reach me @francishenriquez on instagram @francisHM07 on twitter 
